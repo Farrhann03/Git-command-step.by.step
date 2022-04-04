@@ -47,3 +47,8 @@ Steps - to update your repo from main updated repo
 
 \*Compare changes and do a pull request for example select the base and compare - for example to update, use the main as base and compare to the your branch
 ![comparing to pull](/images/pulling%20request%20on%20github3.png?raw=true "comparing to pull")
+
+Steps - to update your local machine from the github repo
+
+- Do a "git fetch" to check the status of any updates
+- Do a "git pull" to pull the updates to your local machine
